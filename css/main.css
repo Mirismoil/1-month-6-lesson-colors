@@ -1,0 +1,13 @@
+.contener{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    box-shadow: 220px 220px 2px 2px darkblue, 220px 0px 2px 2px brown ;
+}
+
+.contener:hover{
+    background-color: brown;
+  box-shadow:220px 220px 2px 2px darkcyan , 220px 0px 2px 2px  tomato}
+  .contener:active{
+    box-shadow: 220px 220px 2px 2px yellowgreen , 220px 0px 2px 2px rosybrown};
+  
